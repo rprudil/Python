@@ -1,4 +1,4 @@
-#Rock Paper Scissors
+# Rock Paper Scissors
 
 import random
 
@@ -14,7 +14,7 @@ computer = (random.choice(list))
 
 print(computer)
 
-#Conditions for winning
+# Conditions for winning
 if (computer == "rock") and (prompt == "rock"):
     print("Tie! Try again!")
 elif (computer == "rock") and (prompt == "scissors"):
