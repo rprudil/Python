@@ -1,4 +1,4 @@
-#Mad Libs Generator
+# Mad Libs Generator
 
 adjective = input("Enter an adjective: ")
 adjective_2 = input("Enter an adjective: ")
