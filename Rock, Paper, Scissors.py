@@ -5,12 +5,12 @@ import random
 rock = "rock "
 paper = "paper "
 scissors = "scissors "
-
-list = ("rock", "paper", "scissors")
+element_list = ("rock", "paper", "scissors")
 
 prompt = input("Enter rock, paper, or scissors: ")
-response = print("Computer's response: ")
-computer = (random.choice(list))
+response = "Computer's response: "
+computer = (random.choice(element_list))
+guess = prompt
 
 print(computer)
 
